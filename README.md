@@ -1,2 +1,2 @@
 # CRC-Algorithm
-CRC implementation code in Python
+CRC implementation code in Python.
